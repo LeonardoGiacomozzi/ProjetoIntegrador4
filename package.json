@@ -15,11 +15,15 @@
   },
   "dependencies": {
     "actions-on-google": "^2.2.0",
+<<<<<<< HEAD
     "dialogflow": "^0.6.0",
     "dialogflow-fulfillment": "^0.5.0",
     "express": "^4.17.1",
+=======
+>>>>>>> 88030fc8b670016bf3219c4d926ff7fc265cfa4f
     "firebase-admin": "^5.13.1",
     "firebase-functions": "^2.0.2",
-    "request": "^2.88.0"
+    "dialogflow": "^0.6.0",
+    "dialogflow-fulfillment": "^0.5.0"
   }
 }
